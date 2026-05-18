@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello world,  I'm Andrey 
 
-<!--
-**AndrewmanX/AndrewmanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student at ITMO University, focused on Java Backend development.
 
-Here are some ideas to get you started:
+Here you can find general information about me, my educational projects, pet projects, and experiments in backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```yaml
+name: Andrey Misenko
+
+education:
+  - "Software Engineering, ITMO University"
+    
+main_stack:
+  - "Java"
+  - "Spring Boot"
+  - "PostgreSQL"
+  - "Hibernate"
+  - "REST API"
+  - "RabbitMQ"
+  - "Kafka"
+  - "Docker"
+  - "Git"
+
+contact me:
+- [Telegram](https://t.me/msnko945)
+- [Email](andrewman945@gmail.com)
