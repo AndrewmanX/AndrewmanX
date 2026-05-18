@@ -22,6 +22,7 @@ main_stack:
   - "Docker"
   - "Git"
 
-contact me:
+```
+Contact me:
 - [Telegram](https://t.me/msnko945)
 - [Email](andrewman945@gmail.com)
