@@ -24,5 +24,5 @@ main_stack:
 
 ```
 Contact me:
-- [Telegram](https://t.me/msnko945)
-- [Email](andrewman945@gmail.com)
+- [Telegram](https://t.me/msnk945)
+- [Email](mailto:andrewman945@gmail.com)
